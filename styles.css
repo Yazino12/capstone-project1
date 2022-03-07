@@ -1,0 +1,101 @@
+@import url('http://fonts.cdnfonts.com/css/cocogoose');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body {
+  font-family: 'Lato', sans-serif;
+  color: #272a31;
+  margin: 0;
+  min-width: 375px;
+}
+
+h1 {
+  font-family: 'COCOGOOSE', sans-serif;
+  color: #ec5242;
+  margin: 0;
+}
+
+h2,
+p {
+  margin: 0;
+}
+
+hr {
+  height: 2px;
+  width: 50px;
+  background: #ec5242;
+  border-style: none;
+  margin: 0;
+}
+
+.fa-brands {
+  color: #d3d3d3;
+}
+
+/* NAV  */
+
+nav {
+  display: flex;
+  padding: 2em 1em;
+  box-shadow: 0 2px 2px -2px rgba(0, 0, 0, 0.2);
+}
+
+/* HOME  */
+
+.home {
+  height: 550px;
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  background-image: url('images/tech.png');
+  padding: 1em;
+}
+
+/* ABOUT  */
+
+.about {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5em;
+  background-color: #272a31;
+  background-image: url('images/always-grey.png');
+  color: aliceblue;
+  padding: 1em;
+  align-items: center;
+}
+
+.about .upper {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+  align-items: center;
+}
+
+.about .lower {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+.lower .about-items {
+  display: flex;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.116);
+  padding: 1em;
+}
+
+.about-items .lefts {
+  display: flex;
+  gap: 1em;
+  align-items: center;
+  flex: 1;
+}
+
+.lefts h3 {
+  color: #ec5242;
+  width: 120px;
+}
+
+.about-items .rights {
+  flex: 2;
+  color: #d3d3d3;
+}
