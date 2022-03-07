@@ -6,15 +6,14 @@
 | :---------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: |
 |  |  |
 
+👤 **Yasin**
+GitHub: [@Yazino12](https://github.com/Yazino12)
+
 ## Built With
 
 - HTML
 - CSS
 - Javascript
-
-👤 **Yasin**
-
-GitHub: [@Yazino12](https://github.com/Yazino12)
 
 ## Live Portfolio
 
@@ -24,7 +23,7 @@ Portfolio: [Live](https://yazino12.github.io/capstone-project1)
 
 Contributions, issues, and feature requests are welcome!
 
-## Show your support
+### Show your support
 
 Give a ⭐️ if you like this project!
 
