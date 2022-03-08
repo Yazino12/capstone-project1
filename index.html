@@ -14,23 +14,33 @@
   <body>
     <!-- NAVIGATION BAR -->
     <nav>
-      <i class="fa-solid fa-bars fa-2xl"></i>
-      <!-- <i class="fa-solid fa-laptop-code fa-2xl"></i> -->
+      <i class="fa-solid fa-bars fa-2xl burger-menu"></i>
+      <div class="hidden">
+        <a href="#home"><i class="fa-solid fa-laptop-code fa-2xl logo"></i></a>
+        <ul>
+          <li><a class="menu-item1" href="#home">Home</a></li>
+          <li><a class="menu-item2" href="#about">About</a></li>
+          <li><a class="menu-item3" href="#featured">Featured</a></li>
+        </ul>
+      </div>
     </nav>
 
-    <!-- MAIN SECTION  -->
+    <!-- MAIN CONTENT -->
     <main>
       <!-- HOME SECTION  -->
-      <section class="home">
-        <h1>The Complete 2022 Web Development Bootcamp</h1>
-        <p>
-          This is where you will enhance your long wanted dream of becoming a
-          full-stack web developer
-        </p>
+      <section id="home">
+        <div class="home-content">
+          <h1>The Complete 2022 Web Development Bootcamp</h1>
+          <p>
+            This is where you will enhance your long wanted dream of becoming a
+            full-stack web developer
+          </p>
+          <h2>ONE TIME PURCHASE = LIFE TIME ACCESS</h2>
+        </div>
       </section>
 
       <!-- ABOUT SECTION  -->
-      <section class="about">
+      <section id="about">
         <div class="upper">
           <h2>All Courses</h2>
           <hr />
@@ -92,6 +102,7 @@
             </div>
           </div>
         </div>
+        <a href="#about">SEE THE WHOLE COURSES</a>
       </section>
     </main>
   </body>
