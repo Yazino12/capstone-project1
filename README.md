@@ -6,7 +6,7 @@
 @@ text in purple (and bold)@@
 ```
 ```
-- Capstone Project 1
+# Capstone Project 1 in gray
 ```
 
 |                                                   **Desktop Version**                                                    | 
