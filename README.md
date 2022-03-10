@@ -1,21 +1,15 @@
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-```
-# Capstone Project 1 in gray
-```
+<h1 align="center">
+  Capstone Project 1 👩🏾‍💻
+</h1>
 
-|                                                   **Desktop Version**                                                    | 
-| :---------------------------------------------------------------------------------------------------------------------: |
+
+|                                                   **Desktop Version**                                                                        | 
+| :------------------------: |
 | <img src="https://github.com/Yazino12/portfolio-project/blob/master/images/demo-desktop.png?raw=true" width="1200" height="400"> |
 
-|                                                   **Mobile Version**                                                    | | |
-| :---------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://github.com/Yazino12/portfolio-project/blob/master/images/demo.png?raw=true" width="300" height="400"> | <img src="https://github.com/Yazino12/portfolio-project/blob/master/images/demo.png?raw=true" width="300" height="400"> | <img src="https://github.com/Yazino12/portfolio-project/blob/master/images/demo.png?raw=true" width="300" height="400"> |
+|          **Mobile Version 1**          |           **Mobile Version 2**          |               **Mobile Version 3**          |         **Mobile Version 4**          |
+| :------------------------: | :--------------------------: | :---------------------------: | :---------------------------: |
+| <img src="https://github.com/Yazino12/portfolio-project/blob/master/images/demo.png?raw=true" width="300" height="400"> | <img src="https://github.com/Yazino12/portfolio-project/blob/master/images/demo.png?raw=true" width="300" height="400"> | <img src="https://github.com/Yazino12/portfolio-project/blob/master/images/demo.png?raw=true" width="300" height="400"> | <img src="https://github.com/Yazino12/portfolio-project/blob/master/images/demo.png?raw=true" width="300" height="400"> |
 
 👤 **Yasin**
 GitHub: [@Yazino12](https://github.com/Yazino12)
