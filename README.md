@@ -20,9 +20,9 @@ GitHub: [@Yazino12](https://github.com/Yazino12)
 - CSS
 - Javascript
 
-## Live Portfolio
+## Live Website
 
-Portfolio: [Live](https://yazino12.github.io/capstone-project1)
+CAPSTONE LIVE: [Live](https://yazino12.github.io/capstone-project1)
 
 ## 🤝 Contributing
 
