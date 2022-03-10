@@ -33,7 +33,7 @@ This was not possible without the help of [Microverse](https://github.com/microv
 
 ## Credits
 
-Design inspiration: [Cindy Shin](https://www.behance.net/adagio07)
+Original design idea by: [Cindy Shin in Behance](https://www.behance.net/adagio07)
 
 ## 📝 License
 
