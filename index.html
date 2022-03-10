@@ -10,8 +10,19 @@
       crossorigin="anonymous"
     ></script>
     <title>The Complete 2022 Web Development Bootcamp</title>
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico?v=2" />
   </head>
   <body>
+    <!-- MOBILE-POPUP -->
+    <div class="mobile-menu-background">
+      <i class="fa-solid fa-x close-menu"></i>
+      <ul>
+        <li><a class="close-menu-item1" href="#home">Home</a></li>
+        <li><a class="close-menu-item2" href="#about">About</a></li>
+        <li><a class="close-menu-item3" href="#featured">Featured</a></li>
+      </ul>
+    </div>
+
     <!-- NAVIGATION BAR -->
     <nav>
       <i class="fa-solid fa-bars fa-2xl burger-menu"></i>
@@ -32,8 +43,10 @@
         <div class="home-content">
           <h1>The Complete 2022 Web Development Bootcamp</h1>
           <p>
-            This is where you will enhance your long wanted dream of becoming a
-            full-stack web developer
+            This complete course is designed to educate and transform you into a
+            job-ready, employable web developer. You'll learn by building real
+            applications with features found in sites like Facebook, Hulu, and
+            Dropbox.
           </p>
           <h2>ONE TIME PURCHASE = LIFE TIME ACCESS</h2>
         </div>
@@ -102,7 +115,8 @@
             </div>
           </div>
         </div>
-        <a href="#about">SEE ALL COURSES</a>
+        <a href="#about" class="forMob">ENROLL NOW</a>
+        <a href="#about" class="forDesk">SEE ALL COURSES</a>
       </section>
 
       <!-- FEATURED SECTION  -->
@@ -112,6 +126,9 @@
           <hr />
         </div>
         <div class="lower"></div>
+        <a class="feature-expand">
+          MORE<span><i class="fa-solid fa-angle-down"></i></span>
+        </a>
       </section>
     </main>
     <script src="index.js"></script>
