@@ -1,6 +1,6 @@
 # Capstone Project 1
 
-### <h2 style="text-align:center">The first capstone project</h2>
+<h2 style="text-align:center">The first capstone project</h2>
 
 |                                                   **Desktop Version**                                                    |                                                       **Mobile Version**                                                        |
 | :---------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------: |
