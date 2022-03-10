@@ -1,10 +1,12 @@
 # Capstone Project 1
 
-<h2 style="text-align:center">The first capstone project</h2>
-
 |                                                   **Desktop Version**                                                    | 
 | :---------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://github.com/Yazino12/portfolio-project/blob/master/images/demo-desktop.png?raw=true" width="1200" height="400"> |
+
+|                                                   **Mobile Version**                                                    | 
+| :---------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://github.com/Yazino12/portfolio-project/blob/master/images/demo-desktop.png?raw=true" width="1200" height="400"> | <img src="https://github.com/Yazino12/portfolio-project/blob/master/images/demo-desktop.png?raw=true" width="1200" height="400"> |
 
 👤 **Yasin**
 GitHub: [@Yazino12](https://github.com/Yazino12)
