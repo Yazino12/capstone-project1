@@ -2,9 +2,9 @@
   Capstone Project 1 👩🏾‍💻
 </h1>
 
-|                                                      **Desktop Version**                                                       |
-| :----------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://github.com/Yazino12/capstone-project1/blob/developer/images/desktop.png?raw=true" width="1200" height="400"> |
+|                                                      **Desktop Version1**                                                      |                                                      **Desktop Version2**                                                      |
+| :----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://github.com/Yazino12/capstone-project1/blob/developer/images/desktop1.png?raw=true" width="600" height="400"> | <img src="https://github.com/Yazino12/capstone-project1/blob/developer/images/desktop2.png?raw=true" width="600" height="400"> |
 
 |                                                     **Mobile Version 1**                                                      |                                                     **Mobile Version 2**                                                      |                                                     **Mobile Version 3**                                                      |                                                     **Mobile Version 4**                                                      |
 | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
@@ -21,7 +21,7 @@ GitHub: [@Yazino12](https://github.com/Yazino12)
 
 ## Live Website
 
-CAPSTONE LIVE: [Live](https://yazino12.github.io/capstone-project1)
+Link here: [See live](https://yazino12.github.io/capstone-project1)
 
 ## 🤝 Contributing
 
