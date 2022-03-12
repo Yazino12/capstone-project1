@@ -483,6 +483,18 @@ footer .right {
   font-size: small;
 }
 
+/* ABOUT PAGE  */
+
+/* about footer section  */
+
+#about-footer {
+  background: #272a31;
+}
+
+#about-footer .left {
+  color: #d3d3d3;
+}
+
 /* DESKTOP  */
 
 @media only screen and (min-width: 768px) {
@@ -722,6 +734,4 @@ footer .right {
     gap: 5em;
     width: 80%;
   }
-
-  /* FOOTER  */
 }
