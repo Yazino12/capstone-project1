@@ -1,5 +1,11 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
+# The Complete 2022 Web Development Bootcamp
+
+> The Complete 2022 Web Development Bootcamp is an online Web Development Bootcamp for Software Developers. Here you can purchase courses and see upcoming Software Development related courses.
+
 <h1 align="center">
-  Capstone Project 1 👩🏾‍💻
+  Demo 👩🏾‍💻
 </h1>
 
 |                                                      **Desktop Version1**                                                      |                                                      **Desktop Version2**                                                      |
@@ -10,14 +16,16 @@
 | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://github.com/Yazino12/capstone-project1/blob/master/images/mobile1.png?raw=true" width="300" height="400"> | <img src="https://github.com/Yazino12/capstone-project1/blob/master/images/mobile2.png?raw=true" width="300" height="400"> | <img src="https://github.com/Yazino12/capstone-project1/blob/master/images/mobile3.png?raw=true" width="300" height="400"> | <img src="https://github.com/Yazino12/capstone-project1/blob/master/images/mobile4.png?raw=true" width="300" height="400"> |
 
-👤 **Yasin**
-GitHub: [@Yazino12](https://github.com/Yazino12)
-
 ## Built With
 
 - HTML
 - CSS
 - Javascript
+
+## Author
+
+👤 **Yasin**
+GitHub: [@Yazino12](https://github.com/Yazino12)
 
 ## Live Website
 
