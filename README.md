@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# The Complete 2022 Web Development Bootcamp
+# Web Development Bootcamp
 
 > The Complete 2022 Web Development Bootcamp is an online Web Development Bootcamp for Software Developers. Here you can purchase courses and see upcoming Software Development related courses.
 
