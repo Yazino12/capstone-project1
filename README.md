@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/-Yazino12-yellow)
 
 # Web Development Bootcamp
 
@@ -49,4 +49,4 @@ Original design idea by: [Cindy Shin in Behance](https://www.behance.net/adagio0
 
 ## 📝 License
 
-This project has no licenses.
+This project is [MIT](./MIT.md) licensed.
