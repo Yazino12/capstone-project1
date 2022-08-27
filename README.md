@@ -24,8 +24,11 @@
 
 ## Author
 
-👤 **Yasin**
-GitHub: [@Yazino12](https://github.com/Yazino12)
+👤 **Yasin Warsame**
+
+- GitHub: [@Yazino12](https://github.com/Yazino12)
+- Twitter: [@yasino24](https://twitter.com/yasino24)
+- LinkedIn: [yasin-warsame](https://linkedin.com/in/yasin-warsame-a4176217a)
 
 ## Live Website
 
